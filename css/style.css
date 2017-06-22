@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+}
+
+
+.thumbnail {
+	margin-left: 20px;
+	height: 400px;
+}
+
+.thumbnail > img {
+	width: 250px;
+	height: 250px;
+}
+
+/*.product-container {
+	text-align: center;
+}*/
