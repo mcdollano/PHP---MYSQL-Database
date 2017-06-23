@@ -1,7 +1,35 @@
 body {
 	text-align: center;
+	position: relative;
 }
 
+
+/* ---- TOP ----- */
+
+.brand-image {
+	width: 150px;
+	height: 120px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.navbar {
+	width: 100vw;
+}
+
+.nav-container {
+	height: 50px;
+	z-index: 10000;
+	width: 100vw;
+	
+}
+
+#myNavbar {
+	margin-left: 30%;
+}
+
+/* --- PRODUCTS ----*/
 
 .thumbnail {
 	margin-left: 20px;
@@ -13,6 +41,13 @@ body {
 	height: 250px;
 }
 
-/*.product-container {
+/* --- ADD ITEMS ----*/
+
+.add-item-container {
+	width: 30%;
 	text-align: center;
-}*/
+	margin-left: 35%;
+
+}
+
+

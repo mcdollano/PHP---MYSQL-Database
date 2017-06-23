@@ -16,7 +16,7 @@
 				<ul class="nav navbar-nav">
 					<li><a href="index.php">HOME</a></li>
 					<li><a href="products.php">PRODUCTS</a></li>
-					<li><a href="about.php">ABOUT</a></li>
+					<li><a href="#">ABOUT</a></li>
 					<li><a href="#">CONTACT</a></li>
 					<li><a href="login.php">MY ACCOUNT</a></li>
 				</ul>
